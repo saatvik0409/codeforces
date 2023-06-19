@@ -1,0 +1,4 @@
+This file contains all the problems I wasn't able to solve myself
+
+1. mocha and math
+2. array reodering
